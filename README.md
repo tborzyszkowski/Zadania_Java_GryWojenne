@@ -37,7 +37,7 @@ Generał wraz ze swoimi zasobami powinien mieć możliwość zapisu i odczytu sw
 W zadaniu oceniane będą:
 - Tworzenie klas: 	10%
 - Kompozycja: 		10%
-- Dziedziczenie: 	30%
+- Dziedziczenie: 	20%
 - Implementacje odpowiednich wzorców projektowych: 30%
 - Implementacja opisanych algorytmów:		 20%
 - Polimorfizm: 		10%
