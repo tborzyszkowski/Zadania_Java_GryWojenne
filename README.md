@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 19.12.2021 23:00   |    10      |
+| 20.01.2024 23:00   |    10      |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -35,12 +35,12 @@ Generał wraz ze swoimi zasobami powinien mieć możliwość zapisu i odczytu sw
 ---
 
 W zadaniu oceniane będą:
-- Tworzenie klas: 	10%
-- Kompozycja: 		10%
-- Dziedziczenie: 	20%
-- Implementacje odpowiednich wzorców projektowych: 30%
-- Implementacja opisanych algorytmów:		 20%
-- Polimorfizm: 		10%
+- Tworzenie klas
+- Kompozycja
+- Dziedziczenie
+- Implementacje odpowiednich wzorców projektowych
+- Implementacja opisanych algorytmów
+- Polimorfizm.
 
 ### Uwaga
-Projekt powinien również zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności.
+Projekt powinien również zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności oraz spełniać reguły SOLID.
